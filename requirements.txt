@@ -1,4 +1,1 @@
 streamlit
-google-generativeai
-langchain
-langchaain-google-genai
